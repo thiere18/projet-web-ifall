@@ -21,7 +21,7 @@
 						<div class="col-md-12 text-center">
 							<h1 class="mb-4"><a href="" class="logo">Menu</a></h1>
 							<ul>
-								<li class="active"><a href=""><span>Accueil</span></a></li>
+								<li class="active"><a href="index.php"><span>Accueil</span></a></li>
 								<li><a href="all.php"><span>Afficher tout</span></a></li>
 								<li><a href="affichage.php?page=1"><span>Affichage par page</span></a></li>
 								<li><a href="ajouter.php"><span>Ajout d'images</span></a></li>

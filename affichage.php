@@ -1,7 +1,7 @@
 <?php
 
     define('HOST', 'immo.cplswart70z6.us-east-1.rds.amazonaws.com');
-    define('DB_NAME', 'image');
+    define('DB_NAME', 'biblio');
     define('USER', 'admin');
     define('PASS', 'adminImmobilier');
 
